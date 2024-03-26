@@ -1,2 +1,2 @@
 # Physics-Simulations
-PSM - 4 semestr
+The projects are a collection of my projects that have previously been separate repos
